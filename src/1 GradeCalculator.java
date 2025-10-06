@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// This is a Grade Calculator
 class GradeCalculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
